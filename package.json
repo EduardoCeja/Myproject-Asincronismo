@@ -1,0 +1,23 @@
+{
+  "name": "myproject-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoCeja/Myproject-Asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoCeja/Myproject-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/EduardoCeja/Myproject-Asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
